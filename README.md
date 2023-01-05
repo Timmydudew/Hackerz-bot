@@ -1,2 +1,3 @@
 # Hackerz-bot
-based on cheems bot
+
+This is not yet complete
