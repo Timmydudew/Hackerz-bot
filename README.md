@@ -1,6 +1,6 @@
 # Hackerz-bot
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Timmydudew/Hackerz-bot/master/its-me-liza-mwol.gif" alt="LIZA MWOL" />
+  <img src="https://raw.githubusercontent.com/Timmydudew/Hackerz-bot/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
 </h1>
 
 This is a bot that combines all your favourite WhatsApp bots into one
