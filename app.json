@@ -1,11 +1,11 @@
 {
-    "name": "Hackaro bot",
-    "description": "hackaro is the Modified Version of WhatsAsena, Made By @team hackaro with Baileys.",
+    "name": "Hackerz bot",
+    "description": "hackerz is the Modified Version of WhatsAsena, Made By @team hackerz with Baileys.",
     "logo": "https://telegra.ph/file/1f9be8ab6efd4ae8a07ab.jpg",
     "keywords": ["whatsapp", "userbot", "hackaro", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/cyberkallan/Hackaro-bot",
-    "website":   "https://github.com/cyberkallan/Hackaro-bot",
-    "success_url": "https://github.com/cyberkallan/Hackaro-bot",
+    "repository": "https://github.com/Timmydudew/Hackerz-bot",
+    "website":   "https://github.com/cyberkallan/Hackerz-bot",
+    "success_url": "https://github.com/Timmydudew/Hacker-bot",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
@@ -141,12 +141,12 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "  hackaro࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
+            "value": "  Hackerz bot࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
         },
         "BOTV2_NAME": {
             "description": "heading for bgm command reply",
             "required": false,
-            "value": "hackaro࿐"
+            "value": "Hackerz bot࿐"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by (hunk!nd3 p4d4y41!",
@@ -174,7 +174,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands ```"
+            "value": "\n ```I Am Alive by JT!!!```\n\n```Type``` *.help* ```for commands ```"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
@@ -194,7 +194,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "hacakro࿐"
+            "value": "Hackerz bot࿐"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -237,7 +237,7 @@
             "value": "default"
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
+            "description": "Type true if you don't want to appear online.",
             "required": false,
             "value": "true"
         }
