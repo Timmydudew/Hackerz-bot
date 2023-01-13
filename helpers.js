@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *LHackaro:  ```" + msg + "```"
+    return "✅ *Hackerz bot:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Hackaro*:  ```" + msg + "```"
+    return "🛑 *Hackerz bot*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Hackaro*:  ```" + msg + "```"
+    return "⏺️ *Hackerz bot*:  ```" + msg + "```"
 }
 
 
