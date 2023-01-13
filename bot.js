@@ -141,7 +141,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅️Hackaro AI Bot working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
+            chalk.green.bold('✅️Hackerz AI Bot working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -354,8 +354,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~Hackaro Bot࿐ ~______~*' +
-                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/Jac2vfHf37L4d4SOgPkTl7``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~Hackerz Bot࿐ ~______~*' +
+                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group``` ' 
                                     , MessageType.text);
                             }
                         }
