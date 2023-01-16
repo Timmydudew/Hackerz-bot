@@ -2,10 +2,11 @@
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hackerz+Bot+;By+JT+;Follow+my+github"
             alt="Typing SVG"
         />
+<a href="https://wa.me/2348050261876">
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Timmydudew/Hackerz-bot/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
 </h1>
-
+</a>
 This is a bot that combines all your favourite WhatsApp bots into one
 
 
